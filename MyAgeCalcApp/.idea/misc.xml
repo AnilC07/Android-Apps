@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GitRepos/Android-Apps/MyAgeCalcApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.266" />
+        <entry key="..\:/GitRepos/Android-Apps/MyAgeCalcApp/app/src/main/res/layout/activity_main.xml" value="0.28351449275362317" />
+        <entry key="..\:/GitRepos/Android-Apps/MyAgeCalcApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.266" />
         <entry key="..\:/Users/Lenovo/AndroidStudioProjects/MyApplicationcalc/app/src/main/res/layout/activity_main.xml" value="0.28804347826086957" />
       </map>
     </option>
